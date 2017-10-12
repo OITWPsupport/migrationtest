@@ -38,6 +38,7 @@
     "postinstall": "npm install -g selenium-standalone",
     "kill-selenium": "kill -15 $( lsof -i:4444 -t )",
     "test": "./node_modules/.bin/wdio wdio.conf.js",
+    "test_oit": "./node_modules/.bin/wdio wdio.conf.js --suite oit",
     "help": "./node_modules/.bin/wdio --help"
   },
   "author": "Michael Guild <michaelguild13@gmail.com> <mg@threde.com>",
