@@ -141,9 +141,9 @@ exports.config = {
     before: function (capabilities, specs) {
         var sinon = require('sinon');
         // http://sinonjs.org/
-        var chai = require('chai');
-        // http://chaijs.com/
+	var chai = require('chai');
         global.fetch = require('node-fetch');
+
 
         chai.config.includeStack = true;
         global.expect = chai.expect;
