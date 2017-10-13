@@ -16,20 +16,6 @@ exports.config = {
     exclude: [
         // 'path/to/excluded/files'
     ],
-    suites: {
-	dev_search: [
-		'./test/specs/search_dev-search.js'
-	],
-	oit: [
-		'./test/specs/search_oit.js'
-	],
-	test: [
-		'./test/specs/search_test.js'
-	],
-	var: [
-		'./test/specs/search_' + process.env.SITE + '.js'
-	]
-    },
     //
     // ============
     // Capabilities
