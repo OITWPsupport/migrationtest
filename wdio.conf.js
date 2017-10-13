@@ -25,6 +25,9 @@ exports.config = {
 	],
 	test: [
 		'./test/specs/search_test.js'
+	],
+	var: [
+		'./test/specs/search_' + process.env.SITE + '.js'
 	]
     },
     //
