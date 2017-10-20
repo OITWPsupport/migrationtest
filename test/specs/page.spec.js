@@ -4,7 +4,7 @@ chai.use(chaiWebdriver(browser));
 var expect = require('chai').expect;
 
 var TESTSITE = process.env.TESTSITE;
-var TITLE = process.env.TITLE + ' | ' + TESTSITE;
+var TITLE = process.env.TITLE;
 var URL = process.env.URL;
 
 var ThisPage = require('../pageobjects/' + TESTSITE);
@@ -21,11 +21,11 @@ describe('test suite for ' + URL, function () {
         expect(pageLoadTime).to.be.below(6000);
     });
 
-    it.skip('should verify the URL', function () {
+    it('should verify the URL', function () {
         expect(ThisPage.currentURL).to.equal(URL);
     } );
 
-    it.skip('should confirm that the search controls are present and correct', function () {
+    it('should confirm that the search controls are present and correct', function () {
 //	expect(ThisPage.search_field).to.exist;
         expect(ThisPage.search_field).to.be.true;
 	expect(ThisPage.search_all).to.be.true;
@@ -98,16 +98,19 @@ describe('test suite for ' + URL, function () {
 	expect(ThisPage.post_footer).to.exist;
     });
 
-    it.skip('should check for the navigation back to www.boisestate.edu', function () {
+    it('should check for the navigation back to www.boisestate.edu', function () {
 	expect(ThisPage.nav_home).to.exist;
 	expect(ThisPage.nav_home_link).to.equal('http://www.boisestate.edu/');
     });
 
-    it.skip('should check the title', function () {
-        expect(ThisPage.title).to.equal(TITLE);
+    it('should check the title', function () {
+//        expect(ThisPage.title).to.equal(TITLE);
+	expect(ThisPage.title.indexOf(TITLE)).to.be.above(-1);
+	console.log('ThisPage.title = ' +ThisPage.title);
+	console.log('TITLE = ' + TITLE);
     });
 
-    it.skip('should check the mega menu', function () {
+    it('should check the mega menu', function () {
         expect(ThisPage.post_footer).to.exist;
         expect(ThisPage.mega_menu_text).to.include('RESEARCH');
         expect(ThisPage.mega_menu_text).to.include('ADMINISTRATION');

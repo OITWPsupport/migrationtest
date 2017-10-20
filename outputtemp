@@ -1,0 +1,1564 @@
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2609 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Access Portal Tutorial Videos | Educational Access Center
+TITLE = Access Portal Tutorial Videos
+------------------------------------------------------------------
+[chrome #0-0] Session ID: cfddebb330ee1b2fc01c0c4b7741babd
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/access-portal-tutorial-videos/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/access-portal-tutorial-videos/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (5s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2191 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Accommodations | Educational Access Center
+TITLE = Accommodations
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 3dfa0a9d48cfd9a95cf5abceece8cd67
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/accommodations/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/accommodations/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2038 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Alternative Testing | Educational Access Center
+TITLE = Alternative Testing
+------------------------------------------------------------------
+[chrome #0-0] Session ID: ffb501dd56fd66045e70fa5461cdb3ac
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/alternative-testing/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/alternative-testing/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2009 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Assistive Technologies | Educational Access Center
+TITLE = Assistive Technologies
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 2826dc18fcc9e454acd3ce5c689687a0
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/assistive-technologies/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/assistive-technologies/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1886 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Become an Access Assistant | Educational Access Center
+TITLE = Become an Access Assistant
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 68b2f54e7f7cf3fdefaac42abd01b247
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/become-access-assistant/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/become-access-assistant/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1931 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Community Resources | Educational Access Center
+TITLE = Community Resources
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 70aafbe604fadcb32e073de6ab4594a6
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/other-resources/community-resources/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/other-resources/community-resources/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1933 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Contact Us | Educational Access Center
+TITLE = Contact Us
+------------------------------------------------------------------
+[chrome #0-0] Session ID: d51ebbba53107733c8929d8f007c1990
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/contact-us/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/contact-us/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2002 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Deaf & Hard of Hearing | Educational Access Center
+TITLE = Deaf & Hard of Hearing
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 64b3a4db19978b6a1522d0912f5deff4
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/dhhservices/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/dhhservices/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1898 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Documentation Guidelines | Educational Access Center
+TITLE = Documentation Guidelines
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 2a5c12e5f393392641c2e7dd814f50b7
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/documentation-guidelines/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/documentation-guidelines/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1696 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Educational Access Center | Boise State University Educational Access Center
+TITLE = Educational Access Center
+------------------------------------------------------------------
+[chrome #0-0] Session ID: b61397e23eeeb75534fc56048b12e6b4
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (3s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 3016 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Faculty FAQ | Educational Access Center
+TITLE = Faculty FAQ
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 00939b5f2dbee7028275fcfcba141cb3
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/faculty-faq/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/faculty-faq/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (5s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2135 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Faculty/Staff | Educational Access Center
+TITLE = Faculty/Staff
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 11cfc1070bbd7978e0b9958eb0893b1d
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2126 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = FAQs | Educational Access Center
+TITLE = FAQs
+------------------------------------------------------------------
+[chrome #0-0] Session ID: ba8b0c2c46c30842d3d485abf7e87788
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/other-resources/faqs/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/other-resources/faqs/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1944 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Grievance Procedure | Educational Access Center
+TITLE = Grievance Procedure
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 3c1fc5fae256be946d638c618433410e
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/grievance-procedure/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/grievance-procedure/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2095 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Guidelines for Determining Parameters of Flexibility in Attendance | Educational Access Center
+TITLE = Guidelines for Determining Parameters of Flexibility in Attendance
+------------------------------------------------------------------
+[chrome #0-0] Session ID: f362230d848ca801e3a6e1e9079a3263
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/guidelines-for-determining-parameters-of-flexibility-in-attendance/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/guidelines-for-determining-parameters-of-flexibility-in-attendance/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1913 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = How services differ | Educational Access Center
+TITLE = How services differ
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 37a837602f7a5230f4f1a941a3a313ce
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/transition/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/transition/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1977 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Implementing Accommodations | Educational Access Center
+TITLE = Implementing Accommodations
+------------------------------------------------------------------
+[chrome #0-0] Session ID: ee16b4b96d1d7e2af9d2d407fd5ab7e9
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/implementing-accommodations/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/implementing-accommodations/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1930 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Meet the Staff | Educational Access Center
+TITLE = Meet the Staff
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 857741b35f100f4a8a795ce4bd2224b7
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/staff/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/staff/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1977 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Mission and Vision Statement | Educational Access Center
+TITLE = Mission and Vision Statement
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 02418f478536f6cd3ec610da1589ee87
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/mission-vision-statement/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/mission-vision-statement/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1972 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = New EAC Students | Educational Access Center
+TITLE = New EAC Students
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 4b8cc57ac3afb74e44c1acecce3172a4
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/new-eac-students/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/new-eac-students/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1999 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Other Resources | Educational Access Center
+TITLE = Other Resources
+------------------------------------------------------------------
+[chrome #0-0] Session ID: cb656b6f1f72ddeb1a6fef0c502ec5ae
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/other-resources/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/other-resources/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1821 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Prepping for College | Educational Access Center
+TITLE = Prepping for College
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 053770e478c424ee09da915d1d2adcdd
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/things-to-do-after-high-school/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/things-to-do-after-high-school/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1818 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Requesting Interpreters | Educational Access Center
+TITLE = Requesting Interpreters
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 384aa66bf3d7ed6751b5bd314ee2b40d
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/requesting-interpreters/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/requesting-interpreters/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2100 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Returning EAC Students | Educational Access Center
+TITLE = Returning EAC Students
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 22fe8d789b487f484233ea28a959cabf
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/returning-eac-students/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/returning-eac-students/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2689 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Rights and Responsibilities | Educational Access Center
+TITLE = Rights and Responsibilities
+------------------------------------------------------------------
+[chrome #0-0] Session ID: e982cdb5839694210fdb3e0944f46e95
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/legal-guidelines/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/legal-guidelines/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2031 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Rights and Responsibilities | Educational Access Center
+TITLE = Rights and Responsibilities
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 796b2c9e184a377b36ce23f5dcac007b
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/rights-responsibilities/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/rights-responsibilities/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 5196 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Smartpen Training | Educational Access Center
+TITLE = Smartpen Training
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 141192a51531e717edc7b0ce31eed190
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/other-resources/smartpen-training/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/other-resources/smartpen-training/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (7s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 3592 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Student FAQ | Educational Access Center
+TITLE = Student FAQ
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 37681c50ade563ab6434e9acdbbcc521
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/student-faq/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/student-faq/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (5s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1945 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Students | Educational Access Center
+TITLE = Students
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 0ffb67568f45af4e2b3bea172c1dbcd1
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/students/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2685 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Support Services | Educational Access Center
+TITLE = Support Services
+------------------------------------------------------------------
+[chrome #0-0] Session ID: e6d2085e8cd591d3c6d0427b34dd335a
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/support-services/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/support-services/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1930 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Syllabus Statement | Educational Access Center
+TITLE = Syllabus Statement
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 1b2921fd3e606ddbe0f6bdfd81961cd1
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/syllabus-statement/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/facultystaff/syllabus-statement/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2549 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Test Accessibility | Educational Access Center
+TITLE = Test Accessibility
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 151916741aec08b52341a94d6b9c08d9
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/test-accessibility/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/test-accessibility/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 1910 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Thank you! | Educational Access Center
+TITLE = Thank you!
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 6989d583c550b113100c11c2ceda41fa
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/confirmation-page/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/confirmation-page/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2112 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Transitioning from High School | Educational Access Center
+TITLE = Transitioning from High School
+------------------------------------------------------------------
+[chrome #0-0] Session ID: a824821e9b7930ce6962035e6384bad7
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/transitioning-high-school/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/transitioning-high-school/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2231 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Useful Links | Educational Access Center
+TITLE = Useful Links
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 81ec00d81cfdbff763e704c30b16fdec
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/assistive-technologies/useful-links/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/assistive-technologies/useful-links/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2301 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = About Us | Idaho Transition
+TITLE = About Us
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 975daa449ac9deebc8f8c54f779bae67
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/idahotransition/about-us/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/idahotransition/about-us/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2449 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = ACT/SAT | Idaho Transition
+TITLE = ACT/SAT
+------------------------------------------------------------------
+[chrome #0-0] Session ID: d39ce4b3ab28ce85e24f3476083794f0
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/idahotransition/students/plan-your-future/act-sat/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/idahotransition/students/plan-your-future/act-sat/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2360 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = Become Your Own Advocate | Idaho Transition
+TITLE = Become Your Own Advocate
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 5eaa066b3e8609b745ba9603e08dba04
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/idahotransition/students/become-your-own-advocate/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/idahotransition/students/become-your-own-advocate/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2903 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = College Contacts | Idaho Transition
+TITLE = College Contacts
+------------------------------------------------------------------
+[chrome #0-0] Session ID: d75810357d5b02da14bb89920bd6e5b4
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/idahotransition/students/plan-your-future/college-contact/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/idahotransition/students/plan-your-future/college-contact/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (5s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
+It took 2308 ms to load the page.
+NOT Testing for social_rss
+NOT Testing for social_facebook
+NOT Testing for social_twitter
+NOT Testing for social_bsocial
+NOT Testing for social_pinterest
+NOT Testing for social_instagram
+NOT Testing for social_youtube
+NOT Testing for social_soundcloud
+ThisPage.title = College Day | Idaho Transition
+TITLE = College Day
+------------------------------------------------------------------
+[chrome #0-0] Session ID: 965d2818d2e9420f9c04c45c6d3c4892
+[chrome #0-0] Spec: /Users/david/temp/20171020/migrationtest/git_repos/migrationtest/test/specs/page.spec.js
+[chrome #0-0] Running: chrome
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/idahotransition/college-day/
+[chrome #0-0]
+[chrome #0-0]   test suite for https://eac.boisestate.edu/idahotransition/college-day/
+[chrome #0-0]       ✓ should load the page in under 6 seconds
+[chrome #0-0]       ✓ should verify the URL
+[chrome #0-0]       ✓ should confirm that the search controls are present and correct
+[chrome #0-0]       ✓ should confirm all the appropriate social icons are there
+[chrome #0-0]       - should confirm that the theme version is correct
+[chrome #0-0]       - should read the value of footer
+[chrome #0-0]       ✓ should check for the navigation back to www.boisestate.edu
+[chrome #0-0]       ✓ should check the title
+[chrome #0-0]       ✓ should check the mega menu
+[chrome #0-0]       - List of links should be longer than two
+[chrome #0-0]
+[chrome #0-0]
+[chrome #0-0] 7 passing (4s)
+[chrome #0-0] 3 pending
+[chrome #0-0]
+
+
+> selenium-webdriverio-mocha-chai-sinon-boilerplate@1.0.1 test /Users/david/temp/20171020/migrationtest/git_repos/migrationtest
+> wdio wdio.conf.js --spec ./test/specs/page.spec.js
+
